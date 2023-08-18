@@ -1,0 +1,20 @@
+Steps To Play Hill Climb Racing in an innovative way:
+
+STEP 1(Clone the Repository): 
+Clone this repository to your local drive.
+
+STEP 2(Install Libraries): 
+Make sure that you have already installed pip, Now Install OpenCv and Mediapipe libraries using pip to meet the requirements of this project.
+
+STEP 3(Try to Understand the CODE):
+When you keep your hands straight facing towards the Webcam, Then the keys are used in accelerating the car("GAS") and
+When you fold your hands facing towards the Webcam, Then the keys are used for brake in the car("BRAKE").
+
+STEP 4(Launch & Run the Code): 
+Firstly, Launch the game "Hill Climb Racing", then resize the computer window. Now open your programming window and execute the Python code.
+
+STEP 5(Start Playing): 
+Place your webcam in a suitable position, and use hand gestures to control the game. Enjoy>>>
+
+
+(P.S: If it doesn't work, then TURN OFF the numlock)
